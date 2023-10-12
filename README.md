@@ -8,6 +8,7 @@ It will manage the Inventory Effectively
 ## Authors
 
 - [@RishavYaduvansh](https://github.com/RishavYaduvansh)
+- [@Vijay_Ingale](https://github.com/RishavYaduvansh)
 
 
 ## Installation
